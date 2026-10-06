@@ -1,1 +1,1 @@
-Official code for CCDA (Neurocomputing submission), to be released upon acceptance
+Official code for CCDA (submission), to be released upon acceptance
